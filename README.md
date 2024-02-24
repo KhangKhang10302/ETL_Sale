@@ -1,6 +1,8 @@
 # ETL_Sale
 
-**Thực hiện ETL (Source-> Stage-> NDS-> DDS)**: Dùng dữ liệu sale từ ba nguồn.
+**Thực hiện ETL (Source-> Stage-> NDS-> DDS)**: 
+- Dùng dữ liệu sale từ ba nguồn.
+- Sử dụng tool ssis.
 
 **Dùng powerBI lập báo cáo trả lời các câu hỏi:**
 - Thống kê số thành viên mua hàng theo ngày, tháng, năm.
